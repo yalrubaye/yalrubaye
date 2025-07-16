@@ -9,4 +9,6 @@ I'm a Computer Engineering student at CSU-Sacramento, graduating in Dec 2025 wit
 ## Current Projects  
 [![DMEA](https://raw.githubusercontent.com/yalrubaye/yalrubaye/main/DMEAHeader.png)](https://www.acq.osd.mil/asds/dmea/)  
 
-Currently, my team and I are developing a software application for the **Defense Microelectronics Activity (DMEA)** as part of our senior project. The project focuses on solving a real-world problem for the organization using a custom software solution.  
+Currently, my team and I are developing a software application for the [**Defense Microelectronics Activity (DMEA)**](https://www.acq.osd.mil/asds) as part of our senior project. The project focuses on solving a real-world problem for the organization using a custom software solution.  
+
+Check out my projects 👇🏻
