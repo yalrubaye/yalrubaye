@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Yousif Al Rubaye  
 
-<!--
-**yalrubaye/yalrubaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Final year Computer Engineering Student @ CSU-Sacramento  
 
-Here are some ideas to get you started:
+What I do  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI/ML Projects**
+Building custom deep learning pipelines using **PyTorch**, vision models, and multi-modal embeddings  
+
+**Embedded Systems & Robotics**  
+Real-time systems using microcontrollers (STM32, Arduino, Raspberry Pi)  
+
+**Software Engineering**  
+Writing clean, tested code with **C/C++**, **Python**, and **Java**. Linux-native  
+
+**CPU Architecture & Systems**  
+Building RISC CPUs, designing CMOS logic and layouts, CPUs in Verilog, and write low-level OS kernels in C and x86 Assembly
