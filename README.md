@@ -2,8 +2,9 @@
 
 🚀 Final year Computer Engineering Student @ CSU-Sacramento  
 
-What I do  
+## About me  
 
+Computer Engineering student at CSU-Sacramento, graduating Dec 2025. Experienced in AI (Deep Learning), embedded systems, software engineering, and CPU design.
 **AI/ML Projects**
 Building custom deep learning pipelines using **PyTorch**, vision models, and multi-modal embeddings  
 
