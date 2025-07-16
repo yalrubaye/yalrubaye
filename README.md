@@ -7,5 +7,6 @@ Final-year Computer Engineering Student @ CSU-Sacramento
 I'm a Computer Engineering student at CSU-Sacramento, graduating in Dec 2025 with a B.S. degree. Experienced in AI (Deep Learning), embedded systems, software engineering, and CPU design.  
 
 ## Current Projects  
-
 [![DMEA](https://img.shields.io/badge/DMEA-003366?style=for-the-badge&logo=gov&logoColor=white)](https://www.acq.osd.mil/asds/dmea/)
+
+Currently, my team and I are developing a software application for the **Defense Microelectronics Activity (DMEA)** as part of our senior project. The project focuses on solving a real-world problem for the organization using a custom software solution.  
