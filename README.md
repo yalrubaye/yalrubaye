@@ -1,5 +1,5 @@
 ## Hi, I'm Yousif Alrubaye  
-Final-year Computer Engineering Student @ CSU-Sacramento  
+Final-year Computer Engineering Student at CSU-Sacramento  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousif-alrubaye/)  
 ## About me  
